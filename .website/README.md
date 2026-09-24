@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - arcade
 post: https://carelesslabs.wordpress.com/2019/09/19/js13k-game-jam-post-mortom-gamedev-js13k/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
